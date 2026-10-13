@@ -15,6 +15,12 @@ Site de restaurante japonês premium, bilíngue PT/EN. Página única com rolage
 troca de idioma, cardápio, galeria, equipe e reserva de mesa com confirmação.
 Next.js + Tailwind CSS.
 
+### [loja.br - Marketplace](https://loja-kohl-one.vercel.app)
+
+E-commerce completo em português do Brasil: catálogo com busca e filtros, carrinho,
+checkout em etapas e pagamento via Pix, cartão e boleto. Full-stack - Next.js,
+Prisma/PostgreSQL e Better Auth. Código no repositório `loja`.
+
 ### [Finora — Landing](https://landing-financeiro.vercel.app)
 Landing page de lançamento para app de finanças pessoais. Tema dark, hero com
 CTA, três features e tabela de preços com plano destacado. Next.js + Tailwind CSS.
